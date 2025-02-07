@@ -1,5 +1,5 @@
 # AICare
-*presentazione di AICare da scrivere*
+AICare is a web application in which the Mistral 7B OpenOrca llm is integrated. Its purpose is to provide support to physicians in the analysis and treatment of patients.
 ![logoAICare](https://github.com/user-attachments/assets/ebe0148a-77d6-4b2e-b228-f33284077e1c)
 
 # Requirements📋
@@ -32,8 +32,11 @@ You need to install:
 10. Install concurrently:<br>
 ```cd ../frontend```<br>
    ```npm install concurrently --save-dev --legacy-peer-deps```
-11. Now you are ready to launch the web application, every time you want to run the project just type:<br>
+11. Now you are ready to launch the web application, every time you want to run the project just make sure you are placed in the frontend folder and type:<br>
    ```npm run dev```
+12. Once you have started the web application, use the following as login credentials:<br>
+    email: doctorantonio@gmail.com<br>
+    password: password123
 
 Note: if you have problems with the Scripts when running the project open PowerShell and type:<br>
 ```Set-ExecutionPolicy Unrestricted -Scope Process```
