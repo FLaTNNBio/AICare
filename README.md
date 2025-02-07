@@ -1,5 +1,5 @@
 # AICare
-AICare is a web application in which the Mistral 7B OpenOrca llm is integrated. Its purpose is to provide support to physicians in the analysis and treatment of patients.
+AICare is a web application in which the Mistral 7B OpenOrca LLM is integrated. Its purpose is to provide support to physicians in the analysis and treatment of patients.
 ![logoAICare](https://github.com/user-attachments/assets/ebe0148a-77d6-4b2e-b228-f33284077e1c)
 
 # Requirements📋
